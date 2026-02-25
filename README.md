@@ -77,9 +77,12 @@ Access Swagger UI: http://127.0.0.1:8000/docs
 
 ---
 ## Folder Structure
+```
 ai-document-analyzer/
 ├── main.py
 ├── app/services/vertex_service.py
 ├── requirements.txt
 ├── Dockerfile
 ├── .env (optional)
+
+```
